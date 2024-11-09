@@ -1,0 +1,11 @@
+co\edu\luWeb\personasapi\infraestructura\PersonaRest.class
+co\edu\luWeb\personasapi\infraestructura\TipoPersonaRest.class
+co\edu\luWeb\personasapi\domain\PersonaServiceImp.class
+co\edu\luWeb\personasapi\domain\Persona.class
+co\edu\luWeb\personasapi\domain\TipoPersonaServiceImp.class
+co\edu\luWeb\personasapi\domain\TipoPersonaRepository.class
+co\edu\luWeb\personasapi\domain\TipoPersonaService.class
+co\edu\luWeb\personasapi\domain\PersonaService.class
+co\edu\luWeb\personasapi\PersonasapiApplication.class
+co\edu\luWeb\personasapi\domain\PersonaRepository.class
+co\edu\luWeb\personasapi\domain\TipoPersona.class
